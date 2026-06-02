@@ -1,16 +1,24 @@
-## Hi there 👋
+# Anggita-Afriyani
+### Hi there! I'm Anggit👋
 
-<!--
-**anggitaafriyani/anggitaafriyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Information Systems Student | Passionate about Software Development & Data**
 
-Here are some ideas to get you started:
+I love turning ideas into reality through code. From designing user-friendly UI/UX and building web & mobile apps, to diving deep into data to uncover hidden insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are the tools and tech I play with on a daily basis:
+
+### 🛠️ Tech Stack & Tools
+- **App Development:** Flutter, GetX, Laravel, PHP, Firebase
+- **Data Analysis:** Python, Tableau, Orange
+- **UI/UX Design:** Figma, Moqups, canva
+- **Others:** Git, Cisco Packet Tracer
+
+### 🚀 Featured Projects
+- **Toko_topup_game:** A fully integrated game top-up platform (Mobile Legends, Free Fire, etc.) built to make transactions seamless.
+- **Enterprise Network Simulation:** A network topology configuration (IP, VLAN, Routing) case study for PT Maju Jaya using Cisco Packet Tracer.
+- **Exploratory Data Analysis (EDA):** *(Currently cooking up an interactive data project, stay tuned!)*
+
+### 📫 Let's Connect!
+Feel free to reach out if you want to talk tech, collaborate on a project, or just network:
+- **LinkedIn:** linkedin.com/in/anggita-afriyani
+- **Email:** anggitaafriyani236@gmail.com
